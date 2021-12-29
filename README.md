@@ -26,7 +26,7 @@ exponentiation()
 ```
 
 ## Output:
-![exponentiation of a number](expo.png)
+![expo](expo.png)
 
 
 ## Result:
