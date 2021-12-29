@@ -26,7 +26,7 @@ exponentiation()
 ```
 
 ## Output:
-![expo](expo.png)
+![expo](./expo.png)
 
 
 ## Result:
